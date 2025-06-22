@@ -4,5 +4,17 @@ messages:
   - role: user
     content: 'Pull out the action items from this meeting transcript: {{input}}'
 model: openai/gpt-4o
-testData: []
-evaluators: []
+testData:
+  - input: |
+      Here is the meeting transcript:
+      - John: We need to finalize the Q2 budget by next Friday.
+      - Sarah: I'll send the updated project plan by tomorrow.
+      - Mike: Let's schedule a follow-up meeting for next week.
+    expectedOutput: |
+      1. Finalize the Q2 budget by next Friday.
+      2. Sarah will send the updated project plan by tomorrow.
+      3. Schedule a follow-up meeting for next week.
+evaluators:
+  - type: stringMatch
+    name: Exact Match
+    description: Checks if the output matches the expected action items exactly.
