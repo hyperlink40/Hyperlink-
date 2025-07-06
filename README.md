@@ -1,10 +1,9 @@
-
-<html><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Awesome Website</title>
+    <title>HYPERLINK CONNECTION</title>
     <!-- Tailwind CSS CDN for easy styling -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts - Inter for a clean look -->
@@ -20,7 +19,7 @@
     <!-- Header Section -->
     <header class="bg-blue-600 text-white p-4 shadow-md rounded-b-lg">
         <div class="container mx-auto flex justify-between items-center">
-            <h1 class="text-3xl font-bold">My Website</h1>
+            <h1 class="text-3xl font-bold">Hyperlink connection</h1>
             <nav>
                 <ul class="flex space-x-4">
                     <li><a href="#" class="hover:text-blue-200 transition duration-300">Home</a></li>
