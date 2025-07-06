@@ -30,7 +30,7 @@
                     <li><a href="admin-login.html" class="hover:text-blue-200 transition duration-300 font-bold">Admin Login</a></li>
                 </ul>
             </nav>
-        </div
+        </div>
     </header>
     <!-- Main Content Area -->
     <main class="flex-grow container mx-auto p-4 py-8">
