@@ -34,9 +34,9 @@
     <!-- Main Content Area -->
     <main class="flex-grow container mx-auto p-4 py-8">
         <section class="bg-white p-6 rounded-lg shadow-lg mb-8">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4">Welcome to Our Site!</h2>
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4">Welcome to hyperlink connections</h2>
             <p class="text-gray-700 leading-relaxed">
-                This is a responsive and modern website template built with HTML and Tailwind CSS.
+                This is a responsive and modern website.
                 You can easily customize this content to fit your needs. Explore the possibilities!
             </p>
             <p class="mt-4 text-gray-600">
@@ -74,13 +74,12 @@
     <!-- Footer Section -->
     <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
-            <p>&copy; 2025 My Awesome Website. All rights reserved.</p>
+            <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
             <div class="flex justify-center space-x-4 mt-2">
                 <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
                 <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
             </div>
         </div>
     </footer>
-
  </body>
 </html>
