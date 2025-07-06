@@ -17,7 +17,6 @@ hyperlink
     </style>
 </head>
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
-
     <!-- Header Section -->
     <header class="bg-blue-600 text-white p-4 shadow-md rounded-b-lg">
         <div class="container mx-auto flex justify-between items-center">
@@ -33,7 +32,6 @@ hyperlink
             </nav>
         </div
     </header>
-
     <!-- Main Content Area -->
     <main class="flex-grow container mx-auto p-4 py-8">
         <section class="bg-white p-6 rounded-lg shadow-lg mb-8">
@@ -50,7 +48,6 @@ hyperlink
                 Learn More
             </button>
         </section>
-
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Feature Card 1 -->
             <div class="bg-white p-6 rounded-lg shadow-lg">
@@ -75,7 +72,6 @@ hyperlink
             </div>
         </section>
     </main>
-
     <!-- Footer Section -->
     <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
