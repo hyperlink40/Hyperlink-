@@ -33,13 +33,13 @@
     </header>
     <!-- Main Content Area -->
     <main class="flex-grow container mx-auto p-4 py-8">
-        <section class="bg-white p-6 rounded-lg shadow-lg mb-8">
+        <section class="bg-black p-6 rounded-lg shadow-lg mb-8">
             <h2 class="text-2xl font-semibold text-blue-700 mb-4">Welcome to hyperlink connections</h2>
-            <p class="text-gray-700 leading-relaxed">
+            <p class="text-white-700 leading-relaxed">
                 This is a responsive and modern website.
                 You can easily customize this content to fit your needs. Explore the possibilities!
             </p>
-            <p class="mt-4 text-gray-600">
+            <p class="mt-4 text-black-600">
                 Our goal is to provide a clean, accessible, and user-friendly experience for all visitors.
                 Feel free to modify the structure and styles to create something truly unique.
             </p>
@@ -49,23 +49,23 @@
         </section>
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Feature Card 1 -->
-            <div class="bg-white p-6 rounded-lg shadow-lg">
+            <div class="bg-black p-6 rounded-lg shadow-lg">
                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature One</h3>
-                <p class="text-gray-700 background-black">
+                <p class="text-white -700">
                     Brief description of feature one. It's designed to be intuitive and efficient.
                 </p>
             </div>
             <!-- Feature Card 2 -->
-            <div class="bg-white p-6 rounded-lg shadow-lg">
+            <div class="bg-black p-6 rounded-lg shadow-lg">
                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature Two</h3>
-                <p class="text-gray-700">
+                <p class="text-white -700">
                     Brief description of feature two. Providing robust solutions for your needs.
                 </p>
             </div>
             <!-- Feature Card 3 -->
-            <div class="bg-white p-6 rounded-lg shadow-lg">
+            <div class="bg-black p-6 rounded-lg shadow-lg">
                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature Three</h3>
-                <p class="text-gray-700">
+                <p class="text-white-700">
                     Brief description of feature three. Focused on user experience and performance.
                 </p>
             </div>
