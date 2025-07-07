@@ -68,6 +68,7 @@ BEST CONNECTIONS
                 <p class="text-white -700">
                     Brief description of feature three. Focused on user experience and performance.
                 </p>
+            </div>
              <!--feature card 4 -->
              <div class="bg-black p-6 rounded-lg shadow-lg">            
               <h3 class="text-x1 font-semibold tex-blue-600 mb-3">connection platform</h3> 
