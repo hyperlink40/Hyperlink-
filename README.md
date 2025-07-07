@@ -75,9 +75,10 @@ BEST CONNECTIONS
               <p class="text-white -700">
                <div class="image-container">
                 <img
-                 src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-                                              4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=100"
-                        alt="Stylish young African woman wearing patterned dress standing confidently in urban                              setting"                                
-               class="w-full h-full object-cover"/>
+                 src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb- 4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=100"
+                        alt="Stylish young African woman wearing patterned dress standing confidently setting"                                
+               class="w-full h-full object-cover"
+              />
             </div>
         </section>
     </main>
