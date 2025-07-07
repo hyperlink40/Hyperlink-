@@ -15,7 +15,7 @@ BEST CONNECTIONS
         }
     </style>
 </head>
-<body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
+<body class="bg-gray-100 text-white-800 flex flex-col min-h-screen">
     <!-- Header Section -->
     <header class="bg-blue-600 text-white p-4 shadow-md rounded-b-lg">
         <div class="container mx-auto flex justify-between items-center">
@@ -34,12 +34,12 @@ BEST CONNECTIONS
     <!-- Main Content Area -->
     <main class="flex-grow container mx-auto p-4 py-8">
         <section class="bg-black p-6 rounded-lg shadow-lg mb-8">
-            <h2 class="text-2xl font-semibold text-white-700 mb-4">Welcome to hyperlink connections</h2>
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4">Welcome to hyperlink connections</h2>
             <p class="text-white-700 leading-relaxed">
                 This is a responsive and modern website.
                 You can easily customize this content to fit your needs. Explore the possibilities!
             </p>
-            <p class="mt-4 text-black-600">
+            <p class="mt-4 text-white-600">
                 Our goal is to provide a clean, accessible, and user-friendly experience for all visitors.
                 Feel free to modify the structure and styles to create something truly unique.
             </p>
@@ -57,7 +57,7 @@ BEST CONNECTIONS
             </div>
             <!-- Feature Card 2 -->
             <div class="bg-black p-6 rounded-lg shadow-lg">
-                <h3 class="text-xl font-semibold text-white-600 mb-3">Feature Two</h3>
+                <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature Two</h3>
                 <p class="text-white -700">
                     Brief description of feature two. Providing robust solutions for your needs.
                 </p>
