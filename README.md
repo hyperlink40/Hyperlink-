@@ -71,7 +71,7 @@ BEST CONNECTIONS
             </div>
              <!--feature card 4 -->
              <div class="bg-black p-6 rounded-lg shadow-lg">            
-              <h3 class="text-x1 font-semibold tex-blue-600 mb-3">connection platform</h3> 
+              <h3 class="text-x1 font-semibold text-blue-600 mb-3">connection platform</h3> 
               <p class="text-white -700">
                <div class="image-container">
                 <img
