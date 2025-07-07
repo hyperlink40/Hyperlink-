@@ -51,7 +51,7 @@
             <!-- Feature Card 1 -->
             <div class="bg-white p-6 rounded-lg shadow-lg">
                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature One</h3>
-                <p class="text-gray-700">
+                <p class="text-gray-700 background-black">
                     Brief description of feature one. It's designed to be intuitive and efficient.
                 </p>
             </div>
