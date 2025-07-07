@@ -39,7 +39,7 @@ BEST CONNECTIONS
                 This is a responsive and modern website.
                 You can easily customize this content to fit your needs. Explore the possibilities!
             </p>
-            <p class="mt-4 text-white-600">
+            <p class="mt-4 text-white -600">
                 Our goal is to provide a clean, accessible, and user-friendly experience for all visitors.
                 Feel free to modify the structure and styles to create something truly unique.
             </p>
