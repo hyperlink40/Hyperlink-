@@ -73,6 +73,7 @@ BEST CONNECTIONS
              <div class="bg-black p-6 rounded-lg shadow-lg">            
               <h3 class="text-x1 font-semibold text-blue-600 mb-3">connection platform</h3> 
               <p class="text-white -700">
+              </p>
                <div class="image-container">
                 <img
                  src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb- 4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=100"
