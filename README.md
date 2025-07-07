@@ -82,7 +82,6 @@ BEST CONNECTIONS
               />
            </div>
            </div>
-         <<<<<<< SEARCH
             <div class="grid-item bg-white rounded-xl overflow-hidden shadow-lg group">
                 <div class="relative aspect-square">
                     <img 
@@ -93,8 +92,7 @@ BEST CONNECTIONS
                 <div class="relative aspect-square">
                     <img 
                         src="https://images.unsplash.com/photo-1620912189864-65e4f820d842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
-                        alt="Beautiful plus-size African woman wearing vibrant Ankara print dress, smiling confidently"
->>>>>>> REPLACE
+                        alt="Beautiful plus-size African woman wearing vibrant Ankara print dress, smiling confidently"/>
         </section>
     </main>
     <!-- Footer Section -->
