@@ -35,7 +35,7 @@ BEST CONNECTIONS
     <main class="flex-grow container mx-auto p-4 py-8">
         <section class="bg-black p-6 rounded-lg shadow-lg mb-8">
             <h2 class="text-2xl font-semibold text-blue-700 mb-4">Welcome to hyperlink connections</h2>
-            <p class="text-white-700 leading-relaxed">
+            <p class="text-white -700 leading-relaxed">
                 This is a responsive and modern website.
                 You can easily customize this content to fit your needs. Explore the possibilities!
             </p>
@@ -65,7 +65,7 @@ BEST CONNECTIONS
             <!-- Feature Card 3 -->
             <div class="bg-black p-6 rounded-lg shadow-lg">
                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature Three</h3>
-                <p class="text-white-700">
+                <p class="text-white -700">
                     Brief description of feature three. Focused on user experience and performance.
                 </p>
             </div>
