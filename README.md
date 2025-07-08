@@ -89,18 +89,6 @@ BEST CONNECTIONS
               <p class="text-white -700">
             </div>               
          <!-- feature card 6 -->
-         <div class="bg-black p-6 rounded-lg shadow-lg">
-           <div class="image-container">
-                 <img
-                     src="https://images.unsplash.com/photo-1620912189864-65e4f820d842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
-                     alt="Beautiful plus-size African woman wearing vibrant Ankara print dress, smiling confidently"/>
-                    <h3 class="font-semibold text-blue-600 mb-3">Textile Artistry</h3>
-                    <p class="text-white -700">
-                       Celebrating body positivity
-                      <p/>
-             <div class="mt-12 text-center">                                      
-         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-       <div class="grid-item bg-white rounded-xl overflow-hidden shadow-lg group">
     </div>
        <!-- feature card 7 -->
             <div class="bg-black p-6 rounded-lg shadow-lg">
@@ -112,8 +100,7 @@ BEST CONNECTIONS
                  <h3 class="text-xl font-semibold text-blue mb-3">Curve Elegance</h3>
                  <p class="text-white -700">
                     Modern Curves
-                </p>                   
-              </div>       
+                </p>                          
              </div>
         </section>
     </main>
