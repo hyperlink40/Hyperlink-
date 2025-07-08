@@ -90,8 +90,6 @@ BEST CONNECTIONS
                hello
               </p>
           </div>               
-        </section>
-    </main>
     <!-- Footer Section -->
     <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
@@ -100,6 +98,8 @@ BEST CONNECTIONS
           <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
          <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
        </div>
-    </footer>
+     </footer>
+    </section>
+   </main>  
  </body>
 </html>
