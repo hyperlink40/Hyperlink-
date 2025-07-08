@@ -90,28 +90,27 @@ BEST CONNECTIONS
                  <h3 class="font-semibold text-lg mb-1">Textile Artistry</h3>                                     
                  <p class="text-gray-600 text-sm">Patterns and craftsmanship</p>
                  </div>               
-               <!-- feature card 6 --> 
+              <!-- feature card 6 --> 
              <div class="image-container">
                  <img
                      src="https://images.unsplash.com/photo-1620912189864-65e4f820d842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
                      alt="Beautiful plus-size African woman wearing vibrant Ankara print dress, smiling confidently"/>
                     <h3 class="font-semibold text-lg mb-1">Textile Artistry</h3>
-               <p class="p-4"ass="text-gray-600 text-sm">Celebrating body positivity</p>
+                    <p class="p-4"ass="text-gray-600 text-sm">Celebrating body positivity</p>
                 <div class="mt-12 text-center">                                      
            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
            <div class="grid-item bg-white rounded-xl overflow-hidden shadow-lg group">
           </div>
             <!-- feature card 7 -->
             <div class="image-container">
-                <div class="relative aspect-square">
-                    <img 
-                        src="https://images.unsplash.com/photo-1577218582671-4f5403228434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
-                        alt="Stylish plus-size African woman with natural hair in modern fashion" 
-                        class="w-full h-full object-cover"
-                        onerror="this.onerror=null; this.parentElement.style.background='linear-gradient(to bottom right, #8b5cf6, #ec4899)"/>
-                   <h3 class="font-semibold text-lg mb-1">Curve Elegance</h3>
-                 <h3 class="font-semibold text-lg mb-1">Modern Curves</h3>
-                <p class="text-gray-600 text-sm">Inclusive Nairobi fashion</p>
+                  <div class="relative aspect-square">
+                   <img 
+                    src="https://images.unsplash.com/photo-1577218582671-4f5403228434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
+                     alt="Stylish plus-size African woman with natural hair in modern fashion" 
+                     class="w-full h-full object-cover"
+                      />
+                  <h3 class="font-semibold text-lg mb-1">Curve Elegance</h3>
+                 <h3 class="font-semibold text-lg mb-1">Modern Curves</h3>             
               <div class="mt-12 text-center">
               </div>       
              </div>
