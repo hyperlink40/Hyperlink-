@@ -87,32 +87,19 @@ BEST CONNECTIONS
                      alt="Colorful African textiles with beautiful patterns and designs">
                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Textile Artistry</h3>                                     
               <p class="text-white -700">
-            </div>               
-         <!-- feature card 6 -->
-    </div>
-       <!-- feature card 7 -->
-            <div class="bg-black p-6 rounded-lg shadow-lg">
-            <div class="image-container">            
-                   <img 
-                    src="https://images.unsplash.com/photo-1577218582671-4f5403228434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
-                     alt="Stylish plus-size African woman with natural hair in modern fashion" 
-                     class="w-full h-full object-cover"/>                   
-                 <h3 class="text-xl font-semibold text-blue mb-3">Curve Elegance</h3>
-                 <p class="text-white -700">
-                    Modern Curves
-                </p>                          
-             </div>
+               hello
+              </p>
+          </div>               
         </section>
     </main>
     <!-- Footer Section -->
     <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
-            <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
-            <div class="flex justify-center space-x-4 mt-2">
-                <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
-                <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
-            </div>
-        </div>
+          <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
+           <div class="flex justify-center space-x-4 mt-2">
+          <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
+         <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
+       </div>
     </footer>
  </body>
 </html>
