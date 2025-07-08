@@ -109,7 +109,7 @@ BEST CONNECTIONS
                     src="https://images.unsplash.com/photo-1577218582671-4f5403228434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
                      alt="Stylish plus-size African woman with natural hair in modern fashion" 
                      class="w-full h-full object-cover"/>                   
-                  <h3 class="text-xl font-semibold text-blue mb-3">Curve Elegance</h3>
+                 <h3 class="text-xl font-semibold text-blue mb-3">Curve Elegance</h3>
                  <p class="text-white -700">
                     Modern Curves
                 </p>                   
