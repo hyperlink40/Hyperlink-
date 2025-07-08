@@ -69,29 +69,38 @@ BEST CONNECTIONS
                     Brief description of feature three. Focused on user experience and performance.
                 </p>
            </div>
-           <!-- feature card 4 -->
-                <div class="bg-black p-6 rounded-lg shadow-lg">      
-              <h3 class="text-xl font-semibold text-blue-600 mb-3">connection platform</h3> 
-              <p class="text-white -700">
-              </p>
+           <!-- Feature Card 4 -->
+            <div class="bg-black p-6 rounded-lg shadow-lg">      
+                <h3 class="text-xl font-semibold text-blue-600 mb-3">connection platform</h3> 
+                <p class="text-white -700">
+               </p>
            <div class="image-container">
               <img
                 src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb- 4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=100"
                alt="Stylish young African woman wearing patterned dress standing confidently setting"/>                                
           </div>            
-         <!-- feature card 5 -->
+         <!-- Feature Card 5 -->
            <div class="bg-black p-6 rounded-lg shadow-lg">             
                <div class="image-container">              
-                 <img 
+                <img 
                      src="https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
                      alt="Colorful African textiles with beautiful patterns and designs">
-                <h3 class="text-xl font-semibold text-blue-600 mb-3">Textile Artistry</h3>                                     
+               <h3 class="text-xl font-semibold text-blue-600 mb-3">Textile Artistry</h3>                                     
               <p class="text-white -700">
-               hello
-              </p>
-          </div>               
-    <!-- Footer Section -->
-    <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
+                hello
+             </p>
+        </div> 
+            <!--Feature Card 6 -->
+            <div class="bg-black p- rounded-lg">
+             <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature six<h/3>
+             <p class="text-white -700">
+               girls around city 
+             </p>
+             <img
+               src="https:/img/i/smiling.woman.png"
+               href="mimo.app.org/img/png"/>
+       <!-- Footer Section -->
+       <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
           <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
            <div class="flex justify-center space-x-4 mt-2">
