@@ -70,47 +70,50 @@ BEST CONNECTIONS
                 </p>
            </div>
            <!-- feature card 4 -->
-           <div class="bg-black p-6 rounded-lg shadow-lg">            
-              <h3 class="text-x1 font-semibold text-blue-600 mb-3">connection platform</h3> 
+                <div class="bg-black p-6 rounded-lg shadow-lg">      
+              <h3 class="text-xl font-semibold text-blue-600 mb-3">connection platform</h3> 
               <p class="text-white -700">
               </p>
            <div class="image-container">
                <img
                  src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb- 4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=100"
                  alt="Stylish young African woman wearing patterned dress standing confidently setting"/>                                
-            </div>
-           </div>
+            </div>            
            <!-- feature card 5 -->
-            <div class="grid-item bg-white rounded-xl overflow-hidden shadow-lg group">
-                <div class="relative aspect-square">
+            <div class="bg-black p-6 rounded-lg shadow-lg">             
                  <div class="image-container">              
                   <img 
                      src="https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
-                     alt="Colorful African textiles with beautiful patterns and designs"/>
-                 <h3 class="font-semibold text-lg mb-1">Textile Artistry</h3>                                     
-                 <p class="text-gray-600 text-sm">Patterns and craftsmanship</p>
+                     alt="Colorful African textiles with beautiful patterns and designs">
+                 <h3 class="text-xl font-semibold text-blue-600 mb-3">Textile Artistry</h3>                                     
+                 <p class="text-white -700">
                  </div>               
-              <!-- feature card 6 --> 
+              <!-- feature card 6 -->
+             <div class="bg-black p-6 rounded-lg shadow-lg">
              <div class="image-container">
                  <img
                      src="https://images.unsplash.com/photo-1620912189864-65e4f820d842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
                      alt="Beautiful plus-size African woman wearing vibrant Ankara print dress, smiling confidently"/>
-                    <h3 class="font-semibold text-lg mb-1">Textile Artistry</h3>
-                    <p class="p-4"ass="text-gray-600 text-sm">Celebrating body positivity</p>
+                    <h3 class="font-semibold text-blue-600 mb-3">Textile Artistry</h3>
+                    <p class="text-white -700">
+                       Celebrating body positivity
+                      <p/>
                 <div class="mt-12 text-center">                                      
            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
            <div class="grid-item bg-white rounded-xl overflow-hidden shadow-lg group">
           </div>
             <!-- feature card 7 -->
-            <div class="image-container">
-                  <div class="relative aspect-square">
+            <div class="bg-black p-6 rounded-lg shadow-lg">
+            <div class="image-container">            
                    <img 
                     src="https://images.unsplash.com/photo-1577218582671-4f5403228434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
                      alt="Stylish plus-size African woman with natural hair in modern fashion" 
                      class="w-full h-full object-cover"
                       />
-                  <h3 class="font-semibold text-lg mb-1">Curve Elegance</h3>
-                 <h3 class="font-semibold text-lg mb-1">Modern Curves</h3>             
+                  <h3 class="text-xl font-semibold text-blue mb-3">Curve Elegance</h3>
+                 <p class="text-white -700">
+                    Modern Curves
+                </p>             
               <div class="mt-12 text-center">
               </div>       
              </div>
