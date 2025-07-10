@@ -98,15 +98,16 @@ BEST CONNECTIONS
              </p>
              <img
                src="https:/img/i/smiling.woman.png"
-               href="mimo.app.org/img/png"/>
+               href="mimo.app.o![495021665_1132162475623042_2904937410756978821_n](https://github.com/user-attachments/assets/04e27a9d-aa98-4f6e-ba69-3e99bd65b2a9)
+rg/img/png"/>
        </div>
        <!-- Footer Section -->
        <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
           <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
-          <div class="flex justify-center space-x-4 mt-2">
-          <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
-         <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
+           <div class="flex justify-center space-x-4 mt-2">
+           <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
+           <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
          </div>
         </footer>
       </section>
