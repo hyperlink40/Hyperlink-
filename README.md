@@ -80,7 +80,7 @@ BEST CONNECTIONS
                alt="Stylish young African woman wearing patterned dress standing confidently setting"/>                                
           </div>            
          <!-- Feature Card 5 -->
-           <div class="bg-black p-6 rounded-lg shadow-lg">             
+         <div class="bg-black p-6 rounded-lg shadow-lg">             
                <div class="image-container">              
                 <img 
                      src="https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
@@ -90,8 +90,8 @@ BEST CONNECTIONS
                 hello
              </p>
         </div> 
-            <!-- Feature Card 6 -->
-           <div class="bg-black p- rounded-lg">
+        <!-- Feature Card 6 -->
+         <div class="bg-black p- rounded-lg">
              <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature six<h/3>
              <p class="text-white -700">
                girls around city 
@@ -99,7 +99,7 @@ BEST CONNECTIONS
              <img
                src="https:/img/i/smiling.woman.png"
                href="mimo.app.org/img/png"/>
-         </div>
+        </div>
        <!-- Footer Section -->
        <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
