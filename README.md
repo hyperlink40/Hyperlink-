@@ -99,17 +99,17 @@ BEST CONNECTIONS
              <img
                src="https:/img/i/smiling.woman.png"
                href="mimo.app.org/img/png"/>
-        </div>
+       </div>
        <!-- Footer Section -->
        <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
           <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
-         <div class="flex justify-center space-x-4 mt-2">
+          <div class="flex justify-center space-x-4 mt-2">
           <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
          <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
-       </div>
-     </footer>
-    </section>
-   </main>  
- </body>
+         </div>
+        </footer>
+      </section>
+     </main>  
+  </body>
 </html>
