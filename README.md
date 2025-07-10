@@ -1,116 +1,113 @@
 BEST CONNECTIONS
- <html lang="en">
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HYPERLINK CONNECTION</title>
-    <!-- Tailwind CSS CDN for easy styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Google Fonts - Inter for a clean look -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    <style>
-        /* Apply Inter font family globally */
-        body {
-            font-family: 'Inter', sans-serif;
-        }
-    </style>
+    <title>Landing Page with Image Gallery</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100 text-white-800 flex flex-col min-h-screen">
-    <!-- Header Section -->
-    <header class="bg-blue-600 text-white p-4 shadow-md rounded-b-lg">
-        <div class="container mx-auto flex justify-between items-center">
-            <h1 class="text-3xl font-bold">Hyperlink connection</h1>
-            <nav>
-                <ul class="flex space-x-4">
-                    <li><a href="#" class="hover:text-blue-200 transition duration-300">Home</a></li>
-                    <li><a href="#" class="hover:text-blue-200 transition duration-300">About</a></li>
-                    <li><a href="#" class="hover:text-blue-200 transition duration-300">Services</a></li>
-                    <li><a href="#" class="hover:text-blue-200 transition duration-300">Contact</a></li>
-                    <li><a href="admin-login.html" class="hover:text-blue-200 transition duration-300 font-bold">AdminLogin</a>></li>
-                </ul>
-            </nav>
+<body class="bg-gray-100">
+
+    <!-- Header -->
+    <header class="bg-white shadow-md">
+        <div class="container mx-auto py-6 px-4">
+            <div class="flex items-center justify-between">
+                <a href="#" class="text-2xl font-bold text-gray-800">Your Logo</a>
+                <nav>
+                    <ul class="flex space-x-6">
+                        <li><a href="#" class="text-gray-600 hover:text-gray-800">Home</a></li>
+                        <li><a href="#" class="text-gray-600 hover:text-gray-800">About</a></li>
+                        <li><a href="#" class="text-gray-600 hover:text-gray-800">Gallery</a></li>
+                        <li><a href="#" class="text-gray-600 hover:text-gray-800">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
     </header>
-    <!-- Main Content Area -->
-    <main class="flex-grow container mx-auto p-4 py-8">
-        <section class="bg-black p-6 rounded-lg shadow-lg mb-8">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4">Welcome to hyperlink connections</h2>
-            <p class="text-white -700 leading-relaxed">
-                This is a responsive and modern website.
-                You can easily customize this content to fit your needs. Explore the possibilities!
-            </p>
-            <p class="mt-4 text-white -600">
-                Our goal is to provide a clean, accessible, and user-friendly experience for all visitors.
-                Feel free to modify the structure and styles to create something truly unique.
-            </p>
-            <button class="mt-6 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300">
-                Learn More
-            </button>
-        </section>
-        <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Feature Card 1 -->
-            <div class="bg-black p-6 rounded-lg shadow-lg">
-                <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature One</h3>
-                <p class="text-white -700">
-                    Brief description of feature one. It's designed to be intuitive and efficient.
-                </p>
+
+<!-- Hero Section -->
+<section class="bg-gradient-to-r from-purple-500 to-blue-500 text-white py-20">
+    <div class="container mx-auto text-center">
+        <h1 class="text-4xl font-bold mb-4">Welcome to Our Awesome Gallery</h1>
+        <p class="text-lg mb-8">Explore our collection of stunning images.</p>
+        <a href="#" class="bg-white text-purple-600 font-bold py-3 px-8 rounded-full hover:bg-purple-100 hover:text-purple-800">
+            View Gallery
+        </a>
+    </div>
+</section>
+
+
+    <!-- Image Gallery Section -->
+    <section class="py-12">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center">Image Gallery</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Image 1 -->
+                <div class="rounded-lg shadow-md overflow-hidden">
+                    <img src="https://source.unsplash.com/600x400/?nature" alt="Nature 1" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Beautiful Nature</h3>
+                        <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+
+                <!-- Image 2 -->
+                <div class="rounded-lg shadow-md overflow-hidden">
+                    <img src="https://source.unsplash.com/600x400/?city" alt="City 1" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Urban Landscape</h3>
+                        <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+
+                <!-- Image 3 -->
+                <div class="rounded-lg shadow-md overflow-hidden">
+                    <img src="https://source.unsplash.com/600x400/?mountains" alt="Mountains 1" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-2">Majestic Mountains</h3>
+                        <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </div>
+
+             <!-- Image 4 -->
+             <div class="rounded-lg shadow-md overflow-hidden">
+                <img src="https://source.unsplash.com/600x400/?beach" alt="Mountains 1" class="w-full h-64 object-cover">
+                <div class="p-4">
+                    <h3 class="text-xl font-semibold text-gray-800 mb-2">Serene Beach</h3>
+                    <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
             </div>
-            <!-- Feature Card 2 -->
-            <div class="bg-black p-6 rounded-lg shadow-lg">
-                <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature Two</h3>
-                <p class="text-white -700">
-                    Brief description of feature two. Providing robust solutions for your needs.
-                </p>
+
+
+             <!-- Image 5 -->
+             <div class="rounded-lg shadow-md overflow-hidden">
+                <img src="https://source.unsplash.com/600x400/?forest" alt="Mountains 1" class="w-full h-64 object-cover">
+                <div class="p-4">
+                    <h3 class="text-xl font-semibold text-gray-800 mb-2">Enchanting Forest</h3>
+                    <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
             </div>
-            <!-- Feature Card 3 -->
-            <div class="bg-black p-6 rounded-lg shadow-lg">
-                <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature Three</h3>
-                <p class="text-white -700">
-                    Brief description of feature three. Focused on user experience and performance.
-                </p>
-           </div>
-           <!-- Feature Card 4 -->
-            <div class="bg-black p-6 rounded-lg shadow-lg">      
-                <h3 class="text-xl font-semibold text-blue-600 mb-3">connection platform</h3> 
-                <p class="text-white -700">
-               </p>
-           <div class="image-container">
-              <img
-                src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb- 4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=100"
-               alt="Stylish young African woman wearing patterned dress standing confidently setting"/>                                
-          </div>            
-         <!-- Feature Card 5 -->
-         <div class="bg-black p-6 rounded-lg shadow-lg">             
-               <div class="image-container">              
-                <img 
-                     src="https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" 
-                     alt="Colorful African textiles with beautiful patterns and designs">
-               <h3 class="text-xl font-semibold text-blue-600 mb-3">Textile Artistry</h3>                                     
-              <p class="text-white -700">
-                hello
-             </p>
-        </div> 
-        <!-- Feature Card 6 -->
-         <div class="bg-black p- rounded-lg">
-             <h3 class="text-xl font-semibold text-blue-600 mb-3">Feature six<h/3>
-             <p class="text-white -700">
-               girls around city 
-             </p>
-             <img
-               src="https:/img/i/smiling.woman.png"
-               href="mimo.app.o![495021665_1132162475623042_2904937410756978821_n](https://github.com/user-attachments/assets/04e27a9d-aa98-4f6e-ba69-3e99bd65b2a9)
-rg/img/png"/>
-       </div>
-       <!-- Footer Section -->
-       <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
+
+
+             <!-- Image 6 -->
+             <div class="rounded-lg shadow-md overflow-hidden">
+                <img src="https://source.unsplash.com/600x400/?river" alt="Mountains 1" class="w-full h-64 object-cover">
+                <div class="p-4">
+                    <h3 class="text-xl font-semibold text-gray-800 mb-2">Peaceful River</h3>
+                    <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
         <div class="container mx-auto text-center">
-          <p>&copy; 2025 hyperlink connection. All rights reserved.</p>
-           <div class="flex justify-center space-x-4 mt-2">
-           <a href="#" class="hover:text-gray-400 transition duration-300">Privacy Policy</a>
-           <a href="#" class="hover:text-gray-400 transition duration-300">Terms of Service</a>
-         </div>
-        </footer>
-      </section>
-     </main>  
-  </body>
+            <p>&copy; 2023 Your Company. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
 </html>
