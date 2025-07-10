@@ -26,7 +26,7 @@ BEST CONNECTIONS
                     <li><a href="#" class="hover:text-blue-200 transition duration-300">About</a></li>
                     <li><a href="#" class="hover:text-blue-200 transition duration-300">Services</a></li>
                     <li><a href="#" class="hover:text-blue-200 transition duration-300">Contact</a></li>
-                    <li><a href="admin-login.html" class="hover:text-blue-200 transition duration-300 font-bold">Admin Login</a></li>
+                    <li><a href="admin-login.html" class="hover:text-blue-200 transition duration-300 font-bold">AdminLogin</a>></li>
                 </ul>
             </nav>
         </div>
@@ -99,6 +99,7 @@ BEST CONNECTIONS
              <img
                src="https:/img/i/smiling.woman.png"
                href="mimo.app.org/img/png"/>
+             </div>
        <!-- Footer Section -->
        <footer class="bg-gray-800 text-white p-4 mt-8 rounded-t-lg">
         <div class="container mx-auto text-center">
