@@ -102,7 +102,7 @@ BEST CONNECTIONS
 
              <!-- Image 7 -->
              <div class="rounded-lg shadow-md overflow-hidden">
-                <img src="images/mountain.jpg" alt="mountain">
+                <img src="images/joan.jpg" alt="joan">
                 <div class="p-4">
                     <h3 class="text-xl font-semibold text-gray-800 mb-2">Serene Beach</h3>
                     <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
