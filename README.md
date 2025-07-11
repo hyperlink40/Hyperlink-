@@ -45,7 +45,7 @@ BEST CONNECTIONS
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Image 1 -->
                 <div class="rounded-lg shadow-md overflow-hidden">
-                    <img src="(https://github.com/user-attachments/assets/f7f220af-d0d9-48fd-87e6-ec42dcb81a4c)/600x400/?nature" alt="Nature 1" class="w-full h-64 object-cover">
+                    <img src="images/nature 1.jpg" alt="Nature 1" 
                     <div class="p-4">
                         <h3 class="text-xl font-semibold text-gray-800 mb-2">Beautiful Nature</h3>
                         <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
