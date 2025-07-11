@@ -82,7 +82,7 @@ BEST CONNECTIONS
 
              <!-- Image 5 -->
              <div class="rounded-lg shadow-md overflow-hidden">
-                <img src="https://source.unspl![download](https://github.com/user-attachments/assets/d31d8134-7ae2-4efc-bb72-82d97bc24cd0)ash.com/600x400/?forest" alt="Mountains 1" class="w-full h-64 object-cover">
+                <img src="images/caro.jpg" alt="caro" class="w-full h-64 object-cover">
                 <div class="p-4">
                     <h3 class="text-xl font-semibold text-gray-800 mb-2">Enchanting Forest</h3>
                     <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
