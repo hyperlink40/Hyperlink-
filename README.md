@@ -45,7 +45,7 @@ BEST CONNECTIONS
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Image 1 -->
                 <div class="rounded-lg shadow-md overflow-hidden">
-                    <img src="images/nature 1.jpeg" alt="Nature 1" 
+                    <img src="images/nature 1.jpeg" alt="Nature 1">
                     <div class="p-4">
                         <h3 class="text-xl font-semibold text-gray-800 mb-2">Beautiful Nature</h3>
                         <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
