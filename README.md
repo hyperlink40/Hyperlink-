@@ -54,7 +54,7 @@ BEST CONNECTIONS
 
                 <!-- Image 2 -->
                 <div class="rounded-lg shadow-md overflow-hidden">
-                    <img src="images/cate" alt="cate" 
+                    <img src="images/cate.jpg" alt="cate" 
                     <div class="p-4">
                         <h3 class="text-xl font-semibold text-gray-800 mb-2">Urban Landscape</h3>
                         <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
