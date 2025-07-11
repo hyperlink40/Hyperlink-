@@ -63,7 +63,7 @@ BEST CONNECTIONS
 
                 <!-- Image 3 -->
                 <div class="rounded-lg shadow-md overflow-hidden">
-                    <img src="images/myphoto.jpg" alt="Description">
+                    <img src="images/nature.jpg" alt="Nature">
                     <div class="p-4">
                         <h3 class="text-xl font-semibold text-gray-800 mb-2">Majestic Mountains</h3>
                         <p class="text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
