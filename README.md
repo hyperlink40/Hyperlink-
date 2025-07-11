@@ -100,7 +100,7 @@ BEST CONNECTIONS
             </div>
 
 
-                <!-- Image 7 -->
+             <!-- Image 7 -->
              <div class="rounded-lg shadow-md overflow-hidden">
                 <img src="images/mountain.jpg" alt="mountain">
                 <div class="p-4">
