@@ -1,3 +1,6 @@
+<<<<<< hyperlink40-patch-1
+
+=======
 BEST CONNECTION
 <html lang="en">
 <head>
